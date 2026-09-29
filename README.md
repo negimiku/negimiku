@@ -1,4 +1,4 @@
-# Hi, I'm Negimiku Hatsune
+# Hi, I'm Takahiro Nogi
 
 🇯🇵 Independent programmer based in Japan.
 
